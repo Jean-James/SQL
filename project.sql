@@ -1,6 +1,6 @@
 create database project;
 use project;
-
+#
 # 1)Retrieve the list of all orders where the sales is greater than 500 and profit less than 100.
 	Select *
       From samplesuperstore
